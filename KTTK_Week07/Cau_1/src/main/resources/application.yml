@@ -1,0 +1,6 @@
+resilience4j:
+  retry:
+    instances:
+      flightSearch:
+        max-retry-attempts: 10
+        waitDuration: 2s
