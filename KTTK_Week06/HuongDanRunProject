@@ -1,0 +1,3 @@
+1. Mở @Bean ở ServiceCustomerApplication.class và ServiceProductApplication.class ra để generate dữ liệu mẫu.
+2. Chạy lần lượt service-registry -> service customer or product -> service-gateway
+3. Test dữ liệu theo ý muốn.
